@@ -1,0 +1,5 @@
+cf_api_url         = "https://api.cf.us10-001.hana.ondemand.com"
+cf_org_id          = "15c8a522-236c-46e3-8be2-053d4144758c"
+cf_space_manager   = "garnet.star15@gmail.com"
+cf_space_developer = "garnet.star15@gmail.com"
+subaccount_url     = "https://account.hanatrial.ondemand.com/trial/#/globalaccount/ee21b1e8-9b5f-469c-bb05-ed28327f28a2/subaccount/e5871b13-4ec3-4b2d-b116-3b16e315557a"
